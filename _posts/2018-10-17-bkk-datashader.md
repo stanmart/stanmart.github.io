@@ -4,6 +4,7 @@ title:      Visualizing public transport
 date:       2018-10-17
 summary:    Plotting the public transport system of Budapest using datashader.
 tags:       geodata datashader python plotting budapest
+thumbnail:  assets/img/bkk/thumbnail.png
 ---
 
 Plotting stuff is fun. Plotting stuff on top of maps is even more fun. Even better, using modern Python visualizaton libraries, plotting on top of maps is simple, too.

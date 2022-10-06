@@ -381,6 +381,23 @@ footer.sticky-bottom {
   }
 }
 
+.post-list-thumbnail {
+  margin-bottom: 1rem;
+  max-width: 120px;
+  margin-right: 50px;
+  img {
+    width: 100%;
+  }
+}
+
+.post-list-content {
+  width: 75%;
+}
+
+.post-list-container{
+  display: inline-flex
+}
+
 .pagination {
   .page-item {
     .page-link {
