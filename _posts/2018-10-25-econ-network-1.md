@@ -3,7 +3,7 @@ layout:     post
 title:      A snapshot of economics, part 1 - getting the data
 date:       2018-10-25
 summary:    Downloading the JEL codes of each article published in the field of economics in 2014 to make a network of the subfields of economis.
-categories: network web scraping python EconLit EBSCOhost
+tags:       network web scraping python EconLit EBSCOhost
 ---
 
 Back in 2015 Olena Chystiakova and I did a project for a Network Science course that might be interesting from a web scraping or data visualization perspective. I am going to present this project in a series of three short articles: I will start with getting the data (web scraping), continue with the visualization of the network, and conclude with modelling the network (the actual network science stuff). This is the first part of the series.

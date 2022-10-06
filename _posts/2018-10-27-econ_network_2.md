@@ -3,7 +3,7 @@ layout:     post
 title:      A snapshot of economics, part 2 - visualizing the network
 date:       2018-10-27
 summary:    Visualizing the network of JEL codes of each article published in the field of economics in 2014.
-categories: network economics visualization holoviews datashader gephi
+tags:       network economics visualization holoviews datashader gephi
 ---
 
 The [last article](http://stanmart.github.io/network/web/scraping/python/econlit/ebscohost/2018/10/25/econ-network-1/) focused on collecting data on the economics literature (from a legal and a technical standpoint). Here is a short primer if you have not read it.
