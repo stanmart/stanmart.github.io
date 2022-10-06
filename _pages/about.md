@@ -24,4 +24,4 @@ I enjoy tinkering with stuff until I figure out how it works. In a sense, that i
 
 I believe in the power of an interdisciplinary approach to both research and problem-solving. I really enjoy learning about all kinds of novel applications of mathematics to social-related fields. I enjoy discussing ideas and problems with others, and I also enjoy teaching those few things in which I am confident of my knowledge.
 
-Just <a href="mailto:martin.stancsics@gmail.com">email me</a> if you would like to talk to me something. Or if you would like to send me gifs of funny dogs. I appreciate those, too.
+Just <a href="mailto:martin.stancsics@gmail.com">email me</a> if you would like to talk to me about something. Or if you would like to send me funny dog gifs. I appreciate those, too.
