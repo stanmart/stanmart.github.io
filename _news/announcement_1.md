@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-10-07 17:20:00+0200
 inline: true
 ---
 
-A simple inline announcement.
+My new homepage is online! 🎊 The old blog has been migrated here, too.
