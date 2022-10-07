@@ -118,6 +118,27 @@
         - Support Vector Machines and Regularized Learning
 
 
+- title: Computer skills
+  type: nested_list
+  contents:
+    - title: Tools I can use
+      items: 
+        - "Programming languages: Python, R, Stata, Matlab, SQL (basics), Rust (basics), Haskell (basics)"
+        - "Markup languages and related tools: Latex, Markdown, Quarto, Jupyter, HTML, CSS (basics)"
+        - "Operating systems: Windows, Linux"
+    - title: Things I can do
+      items:
+        - "Data handling and manipulation: dplyr, data.table, pandas, sqlite"
+        - "Econometrics: Stata, base R, lfe, statsmodels"
+        - "Data visualization: ggplot2, matplotlib, altair, bokeh (vega-lite), datashader"
+        - "Machine learning and NLP (limited experience): sklearn, keras, nltk, spacy, gensim"
+        - "Workflow management: Git, Github, Snakemake, Docker, Singularity (basics)"
+        - "Using APIs and webscraping: requests, selenium, beautifulsoup4"
+        - "Remote development: SSH, VSCode remotes"
+        - "Command line (basics): bash, powershell, cmd"
+        - "Web development (basics): flask, jekyll, bokeh server"
+
+
 - title: Awards and Scholarships
   type: time_table
   contents:
