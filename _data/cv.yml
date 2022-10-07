@@ -132,7 +132,7 @@
         - "Econometrics: Stata, base R, lfe, statsmodels"
         - "Data visualization: ggplot2, matplotlib, altair, bokeh (vega-lite), datashader"
         - "Machine learning and NLP (limited experience): sklearn, keras, nltk, spacy, gensim"
-        - "Workflow management: Git, Github, Snakemake, Docker, Singularity (basics)"
+        - "Workflow management: Git, Github, Snakemake, conda, virtualenv, Renv (basics), Docker, Singularity (basics)"
         - "Using APIs and webscraping: requests, selenium, beautifulsoup4"
         - "Remote development: SSH, VSCode remotes"
         - "Command line (basics): bash, powershell, cmd"
