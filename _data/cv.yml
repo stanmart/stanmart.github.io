@@ -136,7 +136,7 @@
         - "Using APIs and webscraping: requests, selenium, beautifulsoup4"
         - "Remote development: SSH, VSCode remotes"
         - "Command line (basics): bash, powershell, cmd"
-        - "Web development (basics): flask, jekyll, bokeh server"
+        - "Web development (basics): flask, jekyll, nginx, bokeh server"
 
 
 - title: Awards and Scholarships
