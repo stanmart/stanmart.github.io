@@ -227,7 +227,7 @@ display_tags: ['economics', 'python', 'visualization'] # this tags will be dispa
 scholar:
 
   last_name: [Stancsics]
-  first_name: [Martin]
+  first_name: [Martin, M.]
 
   style: apa
   locale: en
