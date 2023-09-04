@@ -1,9 +1,12 @@
 github_users:
   - stanmart
+  - MartinStancsicsQC
 
 github_repos:
   - stanmart/project-for-pp4rs
   - pp4rs/snakemake-2022
+  - Quantco/glum
+  - Quantco/tabmat
   - stanmart/import_pics
-  - stanmart/mnb_dataviz
-  - stanmart/gmaps-elevation-chart
+  - stanmart/monitor_angle
+  - stanmart/stanmart/gmaps-elevation-chart
