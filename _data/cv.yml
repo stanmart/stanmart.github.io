@@ -29,6 +29,15 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Data science intern
+      institution: Quantco, Zürich
+      year: 2023
+      description:
+        - Worked on improving Quantco's open source Python package for estimating generalized linear models ([glum](https://github.com/Quantco/glum)) and its backend ([tabmat](https://github.com/Quantco/tabmat)).
+        - Added a formula interface, flexible Wald tests, and other quality-of-life features.
+        - Refactored tabmat to have a more consistent interface.
+        - My work during this internship forms the basis of the [glum v3](https://github.com/Quantco/glum/releases/tag/v3.0.0) and [tabmat v4](https://github.com/Quantco/tabmat/releases/tag/4.0.0) releases.
+
     - title: Analyst
       institution: Hungarian National Bank, Directorate Financial Analysis
       year: 2018–2019
@@ -54,7 +63,7 @@
   type: time_table
   contents:
     - title: Programming Practices for Research Students
-      year: 2022
+      year: 2022–2023
       description:
         - Lecturer, University of Zurich
         - <a href="https://pp4rs.github.io/2022-uzh">Course Homepage</a>
