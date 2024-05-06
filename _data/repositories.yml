@@ -3,10 +3,10 @@ github_users:
   - MartinStancsicsQC
 
 github_repos:
-  - stanmart/project-for-pp4rs
-  - pp4rs/snakemake-2022
+  - pp4rs/snakemake-demo
   - Quantco/glum
   - Quantco/tabmat
   - stanmart/import_pics
   - stanmart/monitor_angle
   - stanmart/stanmart/gmaps-elevation-chart
+  - https://github.com/stanmart/diseq
