@@ -16,6 +16,12 @@ The goal of this course is to equip participants with a state of the art toolkit
   - [Python material](https://pp4rs.github.io/pp4rs-python/intro.html)
   - [R material](https://pp4rs.github.io/pp4rs-rstats/)
 
+##### 2023 Edition
+  
+  - [Course website](https://pp4rs.github.io/2023-uzh/)
+  - [Installation instructions](https://pp4rs.github.io/2023-uzh-installation-guide/)
+  - [Course material](https://github.com/pp4rs/2023-uzh-course-material)
+
 ##### 2022 Edition
   
   - [Syllabus](https://pp4rs.github.io/2022-uzh/assets/pp4rs-syllabus.pdf)
