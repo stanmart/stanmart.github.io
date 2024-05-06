@@ -33,10 +33,10 @@
       institution: Quantco, Zürich
       year: 2023
       description:
-        - Worked on improving Quantco's open source Python package for estimating generalized linear models ([glum](https://github.com/Quantco/glum)) and its backend ([tabmat](https://github.com/Quantco/tabmat)).
+        - Worked on improving Quantco's open source Python package for estimating generalized linear models (<a href="https://github.com/Quantco/glum">glum</a>) and its backend (<a href="https://github.com/Quantco/tabmat">tabmat</a>).
         - Added a formula interface, flexible Wald tests, and other quality-of-life features.
         - Refactored tabmat to have a more consistent interface.
-        - My work during this internship forms the basis of the [glum v3](https://github.com/Quantco/glum/releases/tag/v3.0.0) and [tabmat v4](https://github.com/Quantco/tabmat/releases/tag/4.0.0) releases.
+        - My work during this internship forms the basis of the <a href="https://github.com/Quantco/glum/releases/tag/v3.0.0">glum v3</a> and <a href="https://github.com/Quantco/tabmat/releases/tag/4.0.0">tabmat v4</a> releases.
 
     - title: Analyst
       institution: Hungarian National Bank, Directorate Financial Analysis
