@@ -3,10 +3,15 @@ github_users:
   - MartinStancsicsQC
 
 github_repos:
+  - stanmart/ValueOfIntermediation
+  - stanmart/unstructured-bargaining-experiment
+  - stanmart/unstructured-bargaining-analysis
   - pp4rs/snakemake-demo
-  - Quantco/glum
-  - Quantco/tabmat
   - stanmart/import_pics
   - stanmart/monitor_angle
   - stanmart/stanmart/gmaps-elevation-chart
   - stanmart/diseq
+  - stanmart/cv-pdf
+  - stanmart/stanmart.github.io
+  - Quantco/glum
+  - Quantco/tabmat
