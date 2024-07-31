@@ -11,7 +11,7 @@ My PhD resesarch project examines the applicability of random order values, and 
 The project is motivated by platform economies, but the results are applicable to a wide range of settings.
 The chapter is an abstract, theoretical treatment of the problem.
 
- - Paper: [Hybrid platforms and bargaining power](https://stanmart.github.io/ValueOfIntermediation/application.pdf)
+ - Paper: [The value of being indispensable: A cooperative approach to bargaining with a continuum of players](https://stanmart.github.io/ValueOfIntermediation/theory.pdf)
  - Github repository: [stanmart/ValueOfIntermediation](https://stanmart.github.io/ValueOfIntermediation)
 
 
