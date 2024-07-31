@@ -1,6 +1,6 @@
 ---
 layout: page
-title: stress testing the banking system
+title: Stress-testing the banking system
 description: Desiging an IFRS9 compliant stress testing framework
 img: assets/img/stress_test/project_pic.png
 importance: 2

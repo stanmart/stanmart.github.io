@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bargaining & cooperative game theory
+title: Bargaining & cooperative game theory
 description: Bargaining outcomes between one large and many small players
 img: assets/img/voi/payoff_scatterplot_rounds_all.png
 importance: 1

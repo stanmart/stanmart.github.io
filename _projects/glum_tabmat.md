@@ -1,6 +1,6 @@
 ---
 layout: page
-title: User-friendly GLMs with Glum 3
+title: User-friendly GLMs with glum 3
 description: High-performance and user-friendly GLM estimation in Python
 img: assets/img/glum-tabmat/main_pic.png
 importance: 1

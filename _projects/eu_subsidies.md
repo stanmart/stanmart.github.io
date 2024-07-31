@@ -1,6 +1,6 @@
 ---
 layout: page
-title: investigating eu subsidies
+title: Investigating EU subsidies
 description: Estimating the effectiveness of EU subsidies given to small and medium-sized firms
 img: assets/img/eufa/project_pic.png
 importance: 2
