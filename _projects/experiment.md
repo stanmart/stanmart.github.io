@@ -2,7 +2,7 @@
 layout: page
 title: Characterizing Multiplayer Free-Form Bargaining
 description: A Lab experiment
-img: assets/img/voi-experiment/payoff_averages_rounds_all.png
+img: assets/img/voi-experiment/payoff_average_rounds_all.png
 importance: 3
 category: phd
 ---
