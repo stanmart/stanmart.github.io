@@ -9,11 +9,13 @@ category: phd
 
 My PhD resesarch project examines the applicability of random order values, and more specifically, the Shapley value to the problem of modeling bargaining in a setting with one indispensable player and a large number of smaller, non-indispensable players.
 The project is motivated by platform economies, but the results are applicable to a wide range of settings.
+The repository for the thesis, as well as the three chapters, can be found at [stanmart/phd-thesis](https://github.com/stanmart/phd-thesis).
+
 This chapter presents a model of a hybrid platform, which engages in bargaining with the fringe entrants.
 It uses the Shapley value to model bargaining outcomes in tractable but not overly simplistic manner. 
 
- - Paper: [Hybrid platforms and bargaining power](https://stanmart.github.io/ValueOfIntermediation/application.pdf)
- - Github repository: [stanmart/ValueOfIntermediation](https://stanmart.github.io/ValueOfIntermediation)
+ - Paper: [Hybrid platforms and bargaining power](https://stanmart.github.io/phd-thesis/application.pdf)
+ - Archived Github repository: [stanmart/ValueOfIntermediation](https://stanmart.github.io/ValueOfIntermediation)
 
 
 ## Hybrid platforms and bargaining power

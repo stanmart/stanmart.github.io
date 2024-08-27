@@ -8,9 +8,11 @@ category: phd
 ---
 
 My PhD resesarch project examines the applicability of random order values, and more specifically, the Shapley value to the problem of modeling bargaining in a setting with one indispensable player and a large number of smaller, non-indispensable players.
+The repository for the thesis, as well as the three chapters, can be found at [stanmart/phd-thesis](https://github.com/stanmart/phd-thesis).
+
 This chapter presents a lab experiment that examines the outcomes of bargaining and coalition formation in a setting with one indispensable and two smaller players.
 
- - Paper: [Characterizing Multiplayer Free-Form Bargaining: A Lab experiment](https://stanmart.github.io/unstructured-bargaining-analysis/paper.pdf) (joint with Mia Lu)
+ - Paper: [Characterizing Multiplayer Free-Form Bargaining: A Lab experiment](https://stanmart.github.io/phd-thesis/paper.pdf) (joint with Mia Lu)
  - Github repository for the experiment: [stanmart/unstructured-bargaining-experiment](https://stanmart.github.io/unstructured-bargaining-experiment)
  - Github repository for the replication package: [stanmart/unstructured-bargaining-analysis](https://stanmart.github.io/unstructured-bargaining-analysis)
 

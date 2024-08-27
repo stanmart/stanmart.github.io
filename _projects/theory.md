@@ -9,10 +9,12 @@ category: phd
 
 My PhD resesarch project examines the applicability of random order values, and more specifically, the Shapley value to the problem of modeling bargaining in a setting with one indispensable player and a large number of smaller, non-indispensable players.
 The project is motivated by platform economies, but the results are applicable to a wide range of settings.
+The repository for the thesis, as well as the three chapters, can be found at [stanmart/phd-thesis](https://github.com/stanmart/phd-thesis).
+
 The chapter is an abstract, theoretical treatment of the problem.
 
- - Paper: [The value of being indispensable: A cooperative approach to bargaining with a continuum of players](https://stanmart.github.io/ValueOfIntermediation/theory.pdf)
- - Github repository: [stanmart/ValueOfIntermediation](https://stanmart.github.io/ValueOfIntermediation)
+ - Paper: [The value of being indispensable: A cooperative approach to bargaining with a continuum of players](https://stanmart.github.io/phd-thesis/theory.pdf)
+ - Archived Github repository: [stanmart/ValueOfIntermediation](https://stanmart.github.io/ValueOfIntermediation)
 
 
 ## The value of being indispensable: a cooperative approach to bargaining with a continuum of players
