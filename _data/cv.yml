@@ -13,7 +13,7 @@
   contents:
     - title: PhD in Economics
       institution: University of Zurich, Zurich
-      year: 2019–
+      year: 2019–2024
     - title: MA in Economics
       institution: Central European University, Budapest
       year: 2014–2016
@@ -29,6 +29,12 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Data scientist
+      institution: Quantco, Zürich
+      year: 2024–
+      description:
+        - Working on Quantco's next generation insurance pricing platform. 🚀
+
     - title: Data science intern
       institution: Quantco, Zürich
       year: 2023
@@ -91,6 +97,12 @@
 - title: Conferences
   type: time_table
   contents:
+    - year: 2025
+      title: High-performance dataframe-agnostic GLMs with glum
+      description: PyConDE 2025
+    - year: 2023
+      title: Hybrid platforms and bargaining
+      description: Swiss IO Day
     - year: 2018
       title: Identifying credit-constrained firms using a disequilibrium model
       description: Financial Stability Christmas Seminar
@@ -165,20 +177,6 @@
       title: Department’s Award for Outstanding Achievement
       description: Corvinus University of Budapest
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Industrial Organization
-      items: 
-        - Use of cooperative game theory in IO models
-        - Bargaining between platforms and users
-    - title: Behavioral Economics
-      items:
-        - Ultimatum games towards groups of players
-        - Role of anonimity in peer reviewed processes
-    - title: Machine Learning
-      items:
-        - Natural Language processing
 
 - title: Other Interests and hobbies
   type: list
