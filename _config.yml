@@ -78,8 +78,8 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://www.econ.uzh.ch/en/people/graduatestudents/stancsics.html # work page URL
-keybase_username: # your keybase user name
+work_url: # work page URL
+keybase_username: stanmart
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
@@ -92,7 +92,7 @@ instagram_id: # your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: 
+contact_note: '<a href=".well-known/pgp/martin-stancsics.pub.asc">OpenPGP Public Key</a>' # a note to be displayed on the contact page
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
